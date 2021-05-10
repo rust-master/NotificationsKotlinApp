@@ -1,2 +1,2 @@
-# NotificationsKotlinApp
-Simpler notifications in Android App using kotlin language
+# Notifications App in Kotlin
+Simple notifications in Android App using kotlin language
